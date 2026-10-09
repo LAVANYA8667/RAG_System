@@ -1,0 +1,13 @@
+npm==0.1.1
+optional-django==0.1.0
+fastapi
+uvicorn
+chromadb
+redis
+sentence-transformers
+ebooklib
+beautifulsoup4
+requests
+python-multipart
+python-dotenv
+pytest
